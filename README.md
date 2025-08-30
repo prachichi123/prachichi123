@@ -1,4 +1,3 @@
-# Prachi-Shende
 
 # Hi, I'm Prachi Shende! 👋
 
