@@ -1,6 +1,8 @@
 Prachi-Shende
 Hi, I'm Prachi Shende! 👋
+
 🚀 About Me
+
 🚀 Data Science enthusiast skilled in Python, Machine Learning, and AI with hands-on project experience.
 
 📊 Proficient in EDA, predictive modeling, and data visualization to solve real-world problems.
