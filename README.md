@@ -48,7 +48,7 @@
 [![🧠 Neural Networks](https://img.shields.io/badge/🧠%20Neural%20Networks-2C3E50?style=for-the-badge&logo=pytorch&logoColor=orange)](#)  
 
 
-## Projects
+## Projects ML
 | 📌 Project Name | 🔎 Description | 🔗 Link |
 |-----------------|----------------|---------|
 | **Regression startup data** | regression model to predict startup profits based on R&D. | [🔗 View](https://github.com/prachichi123/Machine_Learning/blob/main/Assigment-linear-Regression-startup-data.ipynb) |
@@ -58,6 +58,8 @@
 | **Hr employee attraction dataset** | Predicted employee attrition and identified key factors | [🔗 View](https://github.com/prachichi123/Machine_Learning/blob/main/Project-Decision-tree-Hr-employee-attraction-dataset.ipynb) |
 | **Heart dataset** | classify whether a patient has heart disease based on medical attributes. | [🔗 View](https://github.com/prachichi123/Machine_Learning/blob/main/boosting-heart-dataset.ipynb) |
 | **cancer dataset.** | Designed ML models for early detection of breast cancer | [🔗 View](https://github.com/prachichi123/Machine_Learning/blob/main/logistic-regression-cancer-dataset.ipynb) |
+| **cancer dataset.** | Designed ML models for early detection of breast cancer | [🔗 View](https://github.com/prachichi123/Machine_Learning/blob/main/logistic-regression-cancer-dataset.ipynb) |
+| **Liver Patient Pred.** | Classification model to predict liver disease based on medical attributes| [🔗 View](https://github.com/prachichi123/Machine_Learning/blob/main/Liver_Patient_pred.ipynb) |
 
 
 
